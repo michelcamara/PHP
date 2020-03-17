@@ -1,0 +1,2 @@
+1. O código está em: resources/views/welcome.blade.php
+2. Rodar o código, execute o script: php artisan serve
